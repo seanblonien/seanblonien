@@ -1,11 +1,12 @@
 # Hey 👋, I'm Sean
 
-Senior software engineer specializing in real-time full-stack mobile and web app development, with a passion for leading teams and coaching others (especially in React projects)!
+Senior software engineer here, specializing in making things happen instantly (like real-time apps, not my build times, unfortunately). I'm a full-stack developer which means I'm either a master of none or slightly above average at a lot of things. I genuinely love leading teams and sharing my (sometimes hard-earned) wisdom, especially when it comes to React.
 
 - 🏢 I’m currently working on [FlyFit](https://www.fly-bodies.com/flyfit-app) at [Fly Bodies](https://www.fly-bodies.com/)
-- 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** all day
+- 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** in **Nodejs** all day
 - 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/)
-- 💬 Ask me about React best practices!
+- 🎧 Go-to coding playlist is [Synthwave by Lofi Girl](https://open.spotify.com/playlist/1YIe34rcmLjCYpY9wJoM2p?si=dec855ca26434c03)
+- 🌈 Fun facts about me: I went to 10 EDM music festivals last year 🕺🏽🪩
 
 ### 🔧 Technologies & Tools
 
