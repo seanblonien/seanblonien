@@ -7,7 +7,7 @@ Senior software engineer specializing in real-time full-stack mobile and web app
 - 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/)
 - 💬 Ask me about React best practices!
 
-### 🛠️ Skills
+### 🔧 Technologies & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
@@ -30,26 +30,22 @@ Senior software engineer specializing in real-time full-stack mobile and web app
 ![Terraform](https://img.shields.io/badge/Terraform-1f2937?style=flat&logo=terraform&logoColor=7B42BC)
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
-### 📫 Connect
-
-- [LinkedIn](https://linkedin.com/in/seanblonien)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.4 MB Used in GitHub's Storage 
- > 
+> 📦 2.4 MB Used in GitHub's Storage
+ >
 > 🏆 128 Contributions in the Year 2025
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 40 Public Repositories
+ >
+> 🔑 15 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
@@ -58,8 +54,7 @@ Senior software engineer specializing in real-time full-stack mobile and web app
 🌙 Night                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Chicago
@@ -83,7 +78,7 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
 react-native-worklets-cor2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
@@ -93,12 +88,9 @@ NSIS                     2 repos             █░░░░░░░░░░�
 TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/seanblonien/seanblonien/main/assets/bar_graph.png)
-
 
  Last Updated on 25/04/2025 20:34:56 UTC
 <!--END_SECTION:waka-->
