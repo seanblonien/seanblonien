@@ -1,8 +1,13 @@
 # Hey 👋, I'm Sean
 
-### Full-stack Software Engineer | Product design enthusiast | Team leader with consulting DNA
+Senior software engineer specializing in real-time full-stack mobile and web app development, with a passion for leading teams and coaching others (especially in React projects)!
 
-- 🔭 I’m currently working on [FlyFit](https://www.fly-bodies.com/flyfit-app)
+- 🏢 I’m currently working on [FlyFit](https://www.fly-bodies.com/flyfit-app) at [Fly Bodies](https://www.fly-bodies.com/)
+- 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** all day
+- 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/)
+- 💬 Ask me about React best practices!
+
+### 🛠️ Skills
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
@@ -13,7 +18,7 @@
 ![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1f2937?style=flat&logo=expo&logoColor=000020)
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python)
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat&logo=nextdotjs&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat&logo=tailwindcss&logoColor=065F46)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat&logo=nodedotjs&logoColor=339933)
