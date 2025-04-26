@@ -1,3 +1,5 @@
+![](./assets/banner.gif)
+
 # Hey 👋, I'm Sean
 
 Senior software engineer here, specializing in making things happen instantly (like real-time apps, not my build times, unfortunately). I'm a full-stack developer which means I'm either a master of none or slightly above average at a lot of things. I genuinely love leading teams and sharing my (sometimes hard-earned) wisdom, especially when it comes to React.
