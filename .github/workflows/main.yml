@@ -22,4 +22,3 @@ jobs:
           SHOW_OS: True
           DEBUG_LOGGING: True
           UPDATED_DATE_FORMAT: "%A, %B %d at %l:%M%P"
-          IGNORED_LANGUAGES: "NSIS, TSQL"
