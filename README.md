@@ -1,6 +1,6 @@
 ![](./assets/banner.gif)
 
-Senior software engineer here, specializing in making things happen instantly (like real-time apps, not my build times, unfortunately). I'm a full-stack developer which means I'm either a master of none or slightly above average at a lot of things. I genuinely love leading teams and sharing my (sometimes hard-earned) wisdom, especially when it comes to React.
+I'm a senior software engineer who builds the digital equivalent of bullet trains: real-time full-stack mobile and web apps that deliver experiences instantly. As a full-stack developer, I'm equipped to handle every step of the journey, ensuring smooth operation from server to screen. My genuine passion lies in leading talented teams and sharing the lessons learned from building impactful products, particularly when it involves the power and flexibility of React.
 
 - 🏢 I’m currently working on [FlyFit](https://www.fly-bodies.com/flyfit-app) at [Fly Bodies](https://www.fly-bodies.com/)
 - 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** in **Nodejs** all day
