@@ -6,7 +6,7 @@ I'm a senior software engineer who builds the digital equivalent of bullet train
 - 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** in **Nodejs** all day
 - 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/)
 - 🎧 Go-to coding playlist is [Synthwave by Lofi Girl](https://open.spotify.com/playlist/1YIe34rcmLjCYpY9wJoM2p?si=dec855ca26434c03)
-- 🌈 Fun facts about me: I went to 10 EDM music festivals last year 🕺🏽🪩
+- 🌈 Fun facts about me: I went to 8 EDM music festivals last year 🕺🏽🪩
 
 ### 🔧 Technologies & Tools
 
