@@ -1,10 +1,11 @@
 ![](./assets/banner.gif)
 
-I'm a senior software engineer who builds the digital equivalent of bullet trains: real-time full-stack mobile and web apps that deliver experiences instantly. As a full-stack developer, I'm equipped to handle every step of the journey, ensuring smooth operation from server to screen. My genuine passion lies in leading talented teams and sharing the lessons learned from building impactful products, particularly when it involves the power and flexibility of React.
+I'm a senior software engineer who enjoys building real-time full-stack mobile and web apps. As a full-stack developer, I enjoy touching everything frontend product design and component architecture, to backend serverless architecture and DevOps automation script. My genuine passion lies in leading talented teams and sharing the lessons learned from building impactful products, particularly when it involves the power and flexibility of React.
 
-- 🏢 I’m currently working on [FlyFit](https://www.fly-bodies.com/flyfit-app) at [Fly Bodies](https://www.fly-bodies.com/)
+- 🏢 I’m currently working on myLexia for [Lexia Learning](https://www.lexialearning.com/)
+- 🏢 I previously launched [FlyFit](https://www.fly-bodies.com/flyfit-app) at [Fly Bodies](https://www.fly-bodies.com/)
 - 💻 I spend most of my time in **TypeScript** doing **React Native** and **Firebase Functions** in **Nodejs** all day
-- 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/)
+- 🌱 I’m keeping up with the Gen AI hype-train using [Augment Code](https://www.augmentcode.com/) and [T3 Chat](https://t3.chat/chat)
 - 🎧 Go-to coding playlist is [Synthwave by Lofi Girl](https://open.spotify.com/playlist/1YIe34rcmLjCYpY9wJoM2p?si=dec855ca26434c03)
 - 🌈 Fun facts about me: I went to 8 EDM music festivals last year 🕺🏽🪩
 
