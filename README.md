@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C587%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C595%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,18 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               46 hrs 25 mins      ███████████████████████░░   93.23 % 
-SCSS                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Image (svg)              36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript               51 hrs 16 mins      ███████████████████████░░   93.54 % 
+SCSS                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+HTML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Image (svg)              36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  49 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  54 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-poke                     37 hrs 43 mins      ███████████████████░░░░░░   75.76 % 
-mylexia-angular          12 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+poke                     39 hrs 15 mins      ██████████████████░░░░░░░   71.62 % 
+mylexia-angular          15 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 ```
 
 **I Mostly Code in TypeScript** 
