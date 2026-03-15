@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C663%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C672%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,20 +51,20 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               35 hrs 20 mins      ██████████████████████░░░   88.36 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-PHP                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-CSS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               32 hrs 58 mins      ██████████████████████░░░   86.85 % 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+PHP                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-poke                     27 hrs 40 mins      █████████████████░░░░░░░░   69.19 % 
-mylexia-angular          11 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-readingserver            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-seanblonien-eslint-config5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+poke                     25 hrs 38 mins      █████████████████░░░░░░░░   67.54 % 
+mylexia-angular          11 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   30.92 % 
+readingserver            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+seanblonien-eslint-config5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in TypeScript** 
