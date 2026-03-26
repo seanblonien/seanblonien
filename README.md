@@ -33,17 +33,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C724%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C733%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌃 Evening                236 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
-🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌃 Evening                239 commits         ██████████░░░░░░░░░░░░░░░   41.07 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 ```
 
 
@@ -51,31 +51,32 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 19 mins      ███████████████████░░░░░░   77.79 % 
-HTML                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-SCSS                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JavaScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript               24 hrs 53 mins      ███████████████████░░░░░░   75.67 % 
+HTML                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+SCSS                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 45 mins      █████████████████████████   99.75 % 
-Chrome                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  32 hrs 49 mins      █████████████████████████   99.74 % 
+Chrome                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          17 hrs 53 mins      █████████████░░░░░░░░░░░░   52.85 % 
-poke                     14 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.90 % 
-readingserver            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-forever-fest-2026        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+mylexia-angular          18 hrs 37 mins      ██████████████░░░░░░░░░░░   56.61 % 
+poke                     12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.11 % 
+readingserver            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+chezmoi                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+forever-fest-2026        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   39.22 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
