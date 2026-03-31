@@ -51,21 +51,21 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 36 mins      ████████████████████░░░░░   80.13 % 
-HTML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-SCSS                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TypeScript               16 hrs 53 mins      ███████████████████░░░░░░   76.68 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+SCSS                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          14 hrs 36 mins      ███████████████░░░░░░░░░░   59.75 % 
-poke                     8 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
-chezmoi                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-readingserver            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-forever-fest-2026        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+mylexia-angular          14 hrs 4 mins       ████████████████░░░░░░░░░   63.91 % 
+poke                     6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+chezmoi                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+readingserver            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+forever-fest-2026        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in TypeScript** 
