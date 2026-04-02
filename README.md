@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C746%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C751%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,31 +51,31 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 10 mins      ███████████████████░░░░░░   74.69 % 
-Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TypeScript               6 hrs 59 mins       ██████████████████░░░░░░░   72.14 % 
+Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          10 hrs 54 mins      ██████████████████░░░░░░░   72.98 % 
-poke                     3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-chezmoi                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-shortcuts                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-network-diagnostics      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+mylexia-angular          9 hrs 33 mins       █████████████████████████   98.55 % 
+shortcuts                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+network-diagnostics      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+codex                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   39.22 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
