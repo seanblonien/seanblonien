@@ -51,21 +51,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 59 mins       ██████████████████░░░░░░░   72.14 % 
-Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               4 hrs 21 mins       ███████████████░░░░░░░░░░   59.74 % 
+Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          9 hrs 33 mins       █████████████████████████   98.55 % 
-shortcuts                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-network-diagnostics      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-codex                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+mylexia-angular          7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
