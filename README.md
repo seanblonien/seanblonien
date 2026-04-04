@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C751%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C752%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,17 +51,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 21 mins       ███████████████░░░░░░░░░░   59.74 % 
-Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
+Markdown                 3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          7 hrs 17 mins       █████████████████████████   100.00 % 
+mylexia-angular          10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
