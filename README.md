@@ -51,17 +51,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-Markdown                 3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
+HTML                     2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+SCSS                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          10 hrs 2 mins       █████████████████████████   100.00 % 
+mylexia-angular          14 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
