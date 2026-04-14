@@ -51,17 +51,18 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-HTML                     7 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
-SCSS                     7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
-TypeScript               5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+HTML                     6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+SCSS                     6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.75 % 
+TypeScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 10 mins      █████████████████████████   99.74 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          22 hrs 8 mins       █████████████████████████   100.00 % 
+mylexia-angular          19 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
