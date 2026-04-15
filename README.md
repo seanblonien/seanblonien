@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C777%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C780%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,19 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-HTML                     6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
-SCSS                     6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.75 % 
-TypeScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               6 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.35 % 
+HTML                     4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+SCSS                     3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 10 mins      █████████████████████████   99.74 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+VS Code                  16 hrs 40 mins      ████████████████████████░   95.27 % 
+Unknown Editor           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          19 hrs 13 mins      █████████████████████████   100.00 % 
+mylexia-angular          17 hrs 24 mins      █████████████████████████   99.45 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 **I Mostly Code in TypeScript** 
