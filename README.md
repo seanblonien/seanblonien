@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C790%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C793%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,20 +51,21 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
-HTML                     3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-SCSS                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+TypeScript               6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+HTML                     4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+SCSS                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 49 mins      ███████████████████████░░   93.69 % 
-Unknown Editor           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+VS Code                  17 hrs 31 mins      ████████████████████████░   94.27 % 
+Unknown Editor           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          15 hrs 1 min        ██████████████████████░░░   88.94 % 
-readingserver            1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+mylexia-angular          16 hrs 16 mins      ██████████████████████░░░   87.53 % 
+readingserver            1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+BedrockOrchestrator      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 **I Mostly Code in TypeScript** 
