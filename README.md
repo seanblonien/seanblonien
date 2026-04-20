@@ -41,9 +41,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-🌃 Evening                240 commits         ██████████░░░░░░░░░░░░░░░   41.17 % 
-🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌃 Evening                242 commits         ██████████░░░░░░░░░░░░░░░   41.37 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 ```
 
 
@@ -51,21 +51,22 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-HTML                     4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-SCSS                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TypeScript               6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+HTML                     4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+JSON                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+SCSS                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 31 mins      ████████████████████████░   94.27 % 
-Unknown Editor           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+VS Code                  18 hrs 18 mins      ████████████████████████░   94.50 % 
+Unknown Editor           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          16 hrs 16 mins      ██████████████████████░░░   87.53 % 
-readingserver            1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-BedrockOrchestrator      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+mylexia-angular          16 hrs 16 mins      █████████████████████░░░░   84.00 % 
+readingserver            1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+forever-fest-2026        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+BedrockOrchestrator      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 **I Mostly Code in TypeScript** 
