@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C830%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C834%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,20 +51,20 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 7 mins       ███████████████░░░░░░░░░░   60.76 % 
-Other                    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-HTML                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-SCSS                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+TypeScript               11 hrs 7 mins       ████████████████░░░░░░░░░   65.19 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+HTML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+SCSS                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          17 hrs 50 mins      ████████████████████████░   97.44 % 
-prompts                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-readingserver            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-agent-customization      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+mylexia-angular          16 hrs 35 mins      ████████████████████████░   97.25 % 
+prompts                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+readingserver            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+agent-customization      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
