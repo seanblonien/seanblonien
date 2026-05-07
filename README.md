@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C843%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C843%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,19 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 36 mins      ████████████████████░░░░░   80.84 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-SCSS                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TypeScript               11 hrs 28 mins      █████████████████░░░░░░░░   69.20 % 
+HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+SCSS                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  16 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          17 hrs 53 mins      █████████████████████████   99.00 % 
-readingserver            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+mylexia-angular          16 hrs 32 mins      █████████████████████████   99.77 % 
+readingserver            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+call_D3nZwdg9p36MEf83w0yt0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
