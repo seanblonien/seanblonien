@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C843%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C847%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 28 mins      █████████████████░░░░░░░░   69.20 % 
-HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-SCSS                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               11 hrs 39 mins      █████████████████░░░░░░░░   69.95 % 
+HTML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+SCSS                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          16 hrs 32 mins      █████████████████████████   99.77 % 
-readingserver            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+mylexia-angular          16 hrs 38 mins      █████████████████████████   99.96 % 
 call_D3nZwdg9p36MEf83w0yt0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
