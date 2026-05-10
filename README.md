@@ -33,17 +33,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C847%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C851%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌃 Evening                242 commits         ██████████░░░░░░░░░░░░░░░   41.37 % 
-🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+🌃 Evening                243 commits         ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 ```
 
 
@@ -51,18 +51,21 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 39 mins      █████████████████░░░░░░░░   69.95 % 
-HTML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-SCSS                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TypeScript               13 hrs 12 mins      ████████████████░░░░░░░░░   65.44 % 
+Other                    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          16 hrs 38 mins      █████████████████████████   99.96 % 
-call_D3nZwdg9p36MEf83w0yt0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+mylexia-angular          18 hrs 26 mins      ███████████████████████░░   91.36 % 
+grocery-agent            1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+forever-fest-2026        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+skyvern                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+seanblonien-eslint-config0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
