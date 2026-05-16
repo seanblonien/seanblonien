@@ -33,7 +33,40 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C866%20hrs%2010%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+🌃 Evening                243 commits         ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               8 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.92 % 
+HTML                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+SCSS                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 7 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mylexia-angular          10 hrs 59 mins      ███████████████░░░░░░░░░░   60.64 % 
+marketing-site           6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+seanblonien-eslint-config15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+grocery-agent            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+skyvern                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+```
 
 **I Mostly Code in TypeScript** 
 
