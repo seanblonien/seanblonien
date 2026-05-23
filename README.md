@@ -49,31 +49,31 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 hrs 58 mins      ██████████████████░░░░░░░   71.69 % 
-Markdown                 3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-HTML                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-SCSS                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript               26 hrs 2 mins       ██████████████████░░░░░░░   73.30 % 
+Markdown                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+SCSS                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Image (svg)              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketing-site           21 hrs 36 mins      █████████████░░░░░░░░░░░░   51.67 % 
-mylexia-angular          19 hrs 32 mins      ████████████░░░░░░░░░░░░░   46.73 % 
-readingserver            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-call_eEHh9DTBvyUGj3QmgFNB2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-seanblonien              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+marketing-site           19 hrs 16 mins      ██████████████░░░░░░░░░░░   54.26 % 
+mylexia-angular          15 hrs 35 mins      ███████████░░░░░░░░░░░░░░   43.86 % 
+readingserver            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+call_eEHh9DTBvyUGj3QmgFNB2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+seanblonien              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   39.62 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
