@@ -33,49 +33,16 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C934%20hrs%206%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-🌆 Daytime                173 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-🌃 Evening                252 commits         ██████████░░░░░░░░░░░░░░░   41.86 % 
-🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               14 hrs 4 mins       █████████████████░░░░░░░░   68.72 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-SCSS                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 28 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-mylexia-angular          10 hrs 43 mins      █████████████░░░░░░░░░░░░   52.37 % 
-marketing-site           9 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.97 % 
-forever-fest-2026        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-using-computer-use-can-yo1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-can-you-add-codex-screens1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
