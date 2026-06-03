@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C944%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C950%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,20 +51,18 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 57 mins      ████████████████░░░░░░░░░   65.58 % 
-Markdown                 3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-SCSS                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               14 hrs 24 mins      █████████████████░░░░░░░░   68.58 % 
+Markdown                 3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+SCSS                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          13 hrs 15 mins      ████████████████░░░░░░░░░   62.26 % 
-marketing-site           7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-forever-fest-2026        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-can-you-add-codex-screens1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+mylexia-angular          14 hrs 41 mins      █████████████████░░░░░░░░   69.95 % 
+marketing-site           6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
 ```
 
 **I Mostly Code in TypeScript** 
