@@ -33,15 +33,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.53%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C965%20hrs%2025%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-🌆 Daytime                212 commits         ████████░░░░░░░░░░░░░░░░░   32.52 % 
-🌃 Evening                257 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌙 Night                  161 commits         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌆 Daytime                189 commits         ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌃 Evening                250 commits         ██████████░░░░░░░░░░░░░░░   40.39 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
 ```
 
 
