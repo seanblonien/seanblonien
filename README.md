@@ -51,21 +51,21 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 8 mins       █████████████████░░░░░░░░   66.47 % 
-Markdown                 3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Image (svg)              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               11 hrs 27 mins      ███████████████░░░░░░░░░░   60.75 % 
+Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketing-site           11 hrs 49 mins      ██████████████░░░░░░░░░░░   55.58 % 
-mylexia-angular          7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
-readingserver            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-skill-creator            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-call_dtViADC5cpMT54kopJpA12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+mylexia-angular          8 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.02 % 
+marketing-site           7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.22 % 
+readingserver            2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+skill-creator            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+call_dtViADC5cpMT54kopJpA12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 **I Mostly Code in TypeScript** 
