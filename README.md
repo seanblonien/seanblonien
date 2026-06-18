@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C980%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C988%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,19 +51,18 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 13 mins       ████████████████████░░░░░   79.44 % 
-SCSS                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript               9 hrs 26 mins       ████████████████████░░░░░   81.07 % 
+SCSS                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          8 hrs 51 mins       ███████████████████░░░░░░   76.31 % 
-marketing-site           2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-call_1HQG3azdu946Y3KptlLG5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+mylexia-angular          8 hrs 59 mins       ███████████████████░░░░░░   77.24 % 
+marketing-site           2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 NDU2YWExMTgtMDBkNy00ZGMxL0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
