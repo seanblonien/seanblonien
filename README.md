@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C988%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C988%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,18 +51,19 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 26 mins       ████████████████████░░░░░   81.07 % 
-SCSS                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               8 hrs 50 mins       ████████████████████░░░░░   80.93 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+SCSS                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          8 hrs 59 mins       ███████████████████░░░░░░   77.24 % 
-marketing-site           2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+mylexia-angular          10 hrs 3 mins       ███████████████████████░░   92.07 % 
+marketing-site           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+readingserver            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 NDU2YWExMTgtMDBkNy00ZGMxL0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
