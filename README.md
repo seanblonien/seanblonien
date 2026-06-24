@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C989%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C993%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,9 +41,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-🌆 Daytime                242 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌃 Evening                281 commits         ██████████░░░░░░░░░░░░░░░   38.65 % 
-🌙 Night                  161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌆 Daytime                243 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌃 Evening                281 commits         ██████████░░░░░░░░░░░░░░░   38.60 % 
+🌙 Night                  161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 ```
 
 
@@ -51,21 +51,21 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 42 mins       ████████████████████░░░░░   79.06 % 
-SCSS                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-PHP                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript               6 hrs 31 mins       ██████████████████░░░░░░░   70.77 % 
+HTML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+PHP                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          9 hrs 15 mins       ███████████████████░░░░░░   75.31 % 
-marketing-site           2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-readingserver            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-forever-fest-2026        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+mylexia-angular          5 hrs 41 mins       ███████████████░░░░░░░░░░   61.77 % 
+marketing-site           2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+readingserver            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+forever-fest-2026        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
