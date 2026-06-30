@@ -40,10 +40,10 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                252 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌃 Evening                285 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌙 Night                  161 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                253 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌃 Evening                285 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  161 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 ```
 
 
@@ -51,22 +51,22 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ████████████████░░░░░░░░░   65.22 % 
-Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-HTML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-PHP                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+TypeScript               9 hrs 1 min         ██████████████░░░░░░░░░░░   54.63 % 
+Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 48 mins      ███████████████████████░░   90.75 % 
-Claude Code              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+VS Code                  14 hrs 16 mins      ██████████████████████░░░   86.36 % 
+Claude Code              2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
-marketing-site           5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
-reviewer-portal          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-readingserver            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Texas Reviewer Portal    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+mylexia-angular          6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
+reviewer-portal          5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
+marketing-site           3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+readingserver            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Texas Reviewer Portal    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
