@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C021%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C025%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,22 +51,22 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.25 % 
-TypeScript               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
+TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+JSON                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 8 mins        ███████████████████████░░   92.04 % 
-Claude Code              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+VS Code                  7 hrs 38 mins       ██████████████████████░░░   87.59 % 
+Claude Code              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          6 hrs 25 mins       ████████████████░░░░░░░░░   64.79 % 
-mylexia-angular          2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-forever-fest-2026        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Texas Reviewer Portal    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+reviewer-portal          5 hrs 1 min         ██████████████░░░░░░░░░░░   57.52 % 
+mylexia-angular          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
+forever-fest-2026        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Texas Reviewer Portal    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
