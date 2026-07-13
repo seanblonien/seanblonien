@@ -51,21 +51,20 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-JSON                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+TypeScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 38 mins       ██████████████████████░░░   87.59 % 
-Claude Code              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+VS Code                  7 hrs 5 mins        ██████████████████████░░░   86.74 % 
+Claude Code              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          5 hrs 1 min         ██████████████░░░░░░░░░░░   57.52 % 
-mylexia-angular          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
-forever-fest-2026        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+reviewer-portal          5 hrs 1 min         ███████████████░░░░░░░░░░   61.44 % 
+mylexia-angular          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.44 % 
+readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Texas Reviewer Portal    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
