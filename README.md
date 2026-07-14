@@ -51,21 +51,22 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
-TypeScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown                 6 hrs 42 mins       ██████████████░░░░░░░░░░░   54.05 % 
+TypeScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+TOML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        ██████████████████████░░░   86.74 % 
-Claude Code              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+VS Code                  9 hrs 44 mins       ████████████████████░░░░░   78.43 % 
+Claude Code              2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          5 hrs 1 min         ███████████████░░░░░░░░░░   61.44 % 
-mylexia-angular          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.44 % 
-readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Texas Reviewer Portal    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+reviewer-portal          8 hrs 42 mins       ██████████████████░░░░░░░   70.20 % 
+mylexia-angular          3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Freelance                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+help-me-connect-this-code6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
