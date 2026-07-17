@@ -33,7 +33,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C033%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C035%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,22 +51,23 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 29 mins       ████████████████░░░░░░░░░   65.25 % 
-TypeScript               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-TOML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Markdown                 6 hrs 59 mins       ███████████████░░░░░░░░░░   59.62 % 
+TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+SCSS                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 22 mins       ████████████████████░░░░░   81.63 % 
-Claude Code              2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+VS Code                  8 hrs 51 mins       ███████████████████░░░░░░   75.58 % 
+Claude Code              2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Copilot CLI              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          6 hrs 55 mins       ███████████████░░░░░░░░░░   60.37 % 
-mylexia-angular          3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
-Freelance                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-help-me-connect-this-code6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-readingserver            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+reviewer-portal          6 hrs 28 mins       ██████████████░░░░░░░░░░░   55.24 % 
+mylexia-angular          3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+Freelance                1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Running                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+help-me-connect-this-code6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in TypeScript** 
