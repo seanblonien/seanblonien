@@ -51,23 +51,23 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 27 mins       █████████████░░░░░░░░░░░░   53.16 % 
-TypeScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-SCSS                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 5 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.99 % 
+TypeScript               2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+SCSS                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       █████████████████░░░░░░░░   66.63 % 
-Claude Code              3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Copilot CLI              57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+VS Code                  7 hrs 48 mins       ████████████████░░░░░░░░░   64.13 % 
+Claude Code              3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Copilot CLI              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          8 hrs 18 mins       ███████████████░░░░░░░░░░   59.11 % 
-mylexia-angular          3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Freelance                1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-g-p-6a5aa5ab5d4481918058529 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Running                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+reviewer-portal          6 hrs 26 mins       █████████████░░░░░░░░░░░░   52.88 % 
+mylexia-angular          3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Freelance                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+g-p-6a5aa5ab5d4481918058529 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+troubleshoot             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
