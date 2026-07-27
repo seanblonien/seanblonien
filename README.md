@@ -33,7 +33,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C048%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C937%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,6 +70,32 @@ mylexia-angular          1 hr 56 mins        ██████████░�
 troubleshoot             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 toolu_01EQ4Wi6k1ojsW8hHiR3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 9 mins (82.09%)
+
+✍️ 1,038 lines written by AI, 19 lines written by hand (98.2% AI-written)
+
+🔤 105,137,338 Input Tokens, 106,892 Output Tokens
+
+💵 $413.32 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 60 AI Prompts
+
+Sonnet                   1,104 lines         █████████████████████░░░░   83.13 % 
+Github-Copilot           215 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Fable                    9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.2% of written lines came from AI
+📄 Detailed Prompter — average 771 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
