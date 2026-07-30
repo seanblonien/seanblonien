@@ -35,7 +35,7 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C937%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,35 +53,42 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Other                    26 mins             █████████████████████████   100.00 % 
+Other                    58 mins             ████████████████░░░░░░░░░   64.07 % 
+YAML                     26 mins             ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+Claude Code              55 mins             ███████████████░░░░░░░░░░   60.04 % 
+VS Code                  31 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
+Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🐱‍💻 Projects: 
-g-p-6a5aa5ab5d4481918058526 mins             █████████████████████████   100.00 % 
+reviewer-portal          1 hr 4 mins         █████████████████░░░░░░░░   69.58 % 
+g-p-6a5aa5ab5d4481918058526 mins             ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+pr-58-claude-pdf-offline-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (100.0%)
+⏱ AI Coding Time: 1 hr 26 mins (94.35%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 57 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 519,132 Input Tokens, 10,580 Output Tokens
+🔤 16,944,716 Input Tokens, 57,417 Output Tokens
 
-💵 $2.91 Estimated AI Cost This Week
+💵 $52.91 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 5 AI Sessions, 15 AI Prompts
 
+Sonnet                   57 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 484 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
