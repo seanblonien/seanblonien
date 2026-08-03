@@ -53,49 +53,49 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 29 mins       █████████████░░░░░░░░░░░░   53.13 % 
-Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+TypeScript               4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.57 % 
+Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.64 % 
-Copilot CLI              2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Claude Code              4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.10 % 
+Copilot CLI              2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.69 % 
+VS Code                  1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          6 hrs 53 mins       ████████████████████░░░░░   81.40 % 
-mylexia-angular          56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-g-p-6a5aa5ab5d4481918058526 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-sblonien                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-pr-58-claude-pdf-offline-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+reviewer-portal          6 hrs 53 mins       ████████████████████░░░░░   80.55 % 
+mylexia-angular          56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+g-p-6a5aa5ab5d4481918058526 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+sblonien                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+ins                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 13 mins (97.03%)
+⏱ AI Coding Time: 8 hrs 18 mins (97.06%)
 
-✍️ 1,985 lines written by AI, 10 lines written by hand (99.5% AI-written)
+✍️ 2,092 lines written by AI, 10 lines written by hand (99.52% AI-written)
 
-🔤 193,318,950 Input Tokens, 539,756 Output Tokens
+🔤 194,323,810 Input Tokens, 547,856 Output Tokens
 
-💵 $593.75 Estimated AI Cost This Week
+💵 $597.21 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 106 AI Prompts
+🧠 33 AI Sessions, 111 AI Prompts
 
-Sonnet                   2,109 lines         ██████████████████████░░░   87.77 % 
-GPT                      294 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sonnet                   2,109 lines         █████████████████████░░░░   84.02 % 
+GPT                      401 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 1,240 characters per prompt
+🤖 AI-Driven — 99.52% of written lines came from AI
+📄 Detailed Prompter — average 1,217 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.7% of changed lines were hand-edited
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
