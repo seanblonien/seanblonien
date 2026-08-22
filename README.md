@@ -53,50 +53,50 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.81 % 
-TypeScript               3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Gosu                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 6 hrs 8 mins        █████████████░░░░░░░░░░░░   51.78 % 
+TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Gosu                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 11 mins       █████████████░░░░░░░░░░░░   53.86 % 
-VS Code                  5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
-Codex Vscode             1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+Claude Code              4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+Codex Vscode             1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          7 hrs 56 mins       █████████████░░░░░░░░░░░░   52.17 % 
-mylexia-angular          3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-forever-fest-2026        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-marathon-training-data-pa1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-lexia_ai_assets          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+reviewer-portal          4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+mylexia-angular          3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
+forever-fest-2026        1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+marathon-training-data-pa1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+lexia_ai_assets          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 32 mins (89.02%)
+⏱ AI Coding Time: 10 hrs 11 mins (85.79%)
 
-✍️ 5,246 lines written by AI, 206 lines written by hand (96.22% AI-written)
+✍️ 4,115 lines written by AI, 213 lines written by hand (95.08% AI-written)
 
-🔤 11,204,591 Input Tokens, 895,657 Output Tokens
+🔤 9,035,315 Input Tokens, 580,061 Output Tokens
 
-💵 $133.89 Estimated AI Cost This Week
+💵 $82.05 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 221 AI Prompts
+🧠 42 AI Sessions, 172 AI Prompts
 
-GPT                      2,712 lines         ████████████░░░░░░░░░░░░░   48.94 % 
-Sonnet                   2,552 lines         ████████████░░░░░░░░░░░░░   46.06 % 
-Github-Copilot           277 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+GPT                      2,734 lines         ████████████████░░░░░░░░░   64.99 % 
+Sonnet                   1,196 lines         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Github-Copilot           277 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
-📄 Detailed Prompter — average 631 characters per prompt
+🤖 AI-Driven — 95.08% of written lines came from AI
+📄 Detailed Prompter — average 726 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.18% of changed lines were hand-edited
+🚀 High AI Trust — 5.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
