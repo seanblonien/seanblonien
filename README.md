@@ -35,17 +35,17 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C001%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-🌆 Daytime                320 commits         █████████░░░░░░░░░░░░░░░░   36.74 % 
-🌃 Evening                316 commits         █████████░░░░░░░░░░░░░░░░   36.28 % 
-🌙 Night                  162 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌆 Daytime                171 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                245 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
+🌙 Night                  162 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 ```
 
 
@@ -53,60 +53,60 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 8 mins        █████████████░░░░░░░░░░░░   52.46 % 
-TypeScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Gosu                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Markdown                 6 hrs 26 mins       █████████████░░░░░░░░░░░░   52.54 % 
+TypeScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Gosu                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
-Claude Code              4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
-Codex Vscode             1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+VS Code                  5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
+Claude Code              4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
+Codex Vscode             2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-mylexia-angular          3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-forever-fest-2026        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-marathon-training-data-pa1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-lexia_ai_assets          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+reviewer-portal          4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
+mylexia-angular          3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+marathon-training-data-pa1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+forever-fest-2026        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+lexia_ai_assets          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (85.6%)
+⏱ AI Coding Time: 10 hrs 46 mins (87.72%)
 
-✍️ 4,108 lines written by AI, 212 lines written by hand (95.09% AI-written)
+✍️ 4,135 lines written by AI, 211 lines written by hand (95.14% AI-written)
 
-🔤 9,192,153 Input Tokens, 574,461 Output Tokens
+🔤 11,114,934 Input Tokens, 826,808 Output Tokens
 
-💵 $82.42 Estimated AI Cost This Week
+💵 $90.39 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 169 AI Prompts
+🧠 45 AI Sessions, 175 AI Prompts
 
-GPT                      2,727 lines         ████████████████░░░░░░░░░   64.93 % 
-Sonnet                   1,196 lines         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Github-Copilot           277 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+GPT                      2,754 lines         ████████████████░░░░░░░░░   65.15 % 
+Sonnet                   1,196 lines         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+Github-Copilot           277 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.09% of written lines came from AI
-📄 Detailed Prompter — average 657 characters per prompt
+🤖 AI-Driven — 95.14% of written lines came from AI
+📄 Detailed Prompter — average 760 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.55% of changed lines were hand-edited
+🚀 High AI Trust — 5.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
