@@ -53,50 +53,50 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 44 mins       █████████████░░░░░░░░░░░░   51.25 % 
-TypeScript               3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-JSON                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Markdown                 8 hrs 39 mins       ███████████████░░░░░░░░░░   58.03 % 
+TypeScript               3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 44 mins      ██████████████████░░░░░░░   71.19 % 
-Codex Vscode             2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-VS Code                  1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Claude Code              11 hrs 21 mins      ███████████████████░░░░░░   76.06 % 
+Codex Vscode             1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+VS Code                  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Copilot CLI              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          9 hrs 57 mins       ████████████████░░░░░░░░░   65.94 % 
-marathon-training-data-pa2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-reviewer-portal          2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+mylexia-angular          11 hrs 20 mins      ███████████████████░░░░░░   76.03 % 
+reviewer-portal          1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+marathon-training-data-pa1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+g-p-6a6eb5ce5c5c8191a0caa11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 please-remove-all-referen7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-g-p-6a6eb5ce5c5c8191a0caa5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 38 mins (97.05%)
+⏱ AI Coding Time: 14 hrs 25 mins (96.61%)
 
-✍️ 16,335 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 11,818 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 20,568,361 Input Tokens, 2,772,862 Output Tokens
+🔤 12,810,166 Input Tokens, 1,469,091 Output Tokens
 
-💵 $221.37 Estimated AI Cost This Week
+💵 $212.02 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 110 AI Prompts
+🧠 43 AI Sessions, 111 AI Prompts
 
-Sonnet                   11,373 lines        █████████████████░░░░░░░░   66.81 % 
-GPT                      5,650 lines         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   11,724 lines        ███████████████████████░░   91.39 % 
+GPT                      673 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Opus                     432 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 5,036 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 3,437 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
