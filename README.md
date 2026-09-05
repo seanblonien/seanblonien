@@ -33,9 +33,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C026%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C031%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,50 +53,50 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.55 % 
-TypeScript               5 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.60 % 
-YAML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+TypeScript               6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+YAML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
-VS Code                  5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Codex Vscode             3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Copilot CLI              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Claude Code              7 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
+VS Code                  6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+Codex Vscode             3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Copilot CLI              1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 🐱‍💻 Projects: 
-mylexia-angular          8 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.61 % 
-reviewer-portal          5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-marathon-training-data-pa2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Freelance                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-g-p-6a6eb5ce5c5c8191a0caa14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+mylexia-angular          9 hrs 37 mins       █████████████░░░░░░░░░░░░   51.85 % 
+reviewer-portal          5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+marathon-training-data-pa2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Freelance                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+g-p-6a6eb5ce5c5c8191a0caa11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 46 mins (88.72%)
+⏱ AI Coding Time: 16 hrs 25 mins (88.5%)
 
-✍️ 4,784 lines written by AI, 42 lines written by hand (99.13% AI-written)
+✍️ 4,292 lines written by AI, 43 lines written by hand (99.01% AI-written)
 
-🔤 14,083,938 Input Tokens, 1,346,919 Output Tokens
+🔤 14,735,915 Input Tokens, 1,342,451 Output Tokens
 
-💵 $173.35 Estimated AI Cost This Week
+💵 $175.05 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 225 AI Prompts
+🧠 58 AI Sessions, 238 AI Prompts
 
-GPT                      2,898 lines         ██████████████░░░░░░░░░░░   54.05 % 
-Sonnet                   801 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Opus                     649 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Codex-Vscode             531 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Github-Copilot           483 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+GPT                      2,898 lines         ███████████████░░░░░░░░░░   59.41 % 
+Sonnet                   801 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Opus                     649 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Github-Copilot           526 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.13% of written lines came from AI
-📄 Detailed Prompter — average 759 characters per prompt
+🤖 AI-Driven — 99.01% of written lines came from AI
+📄 Detailed Prompter — average 1,080 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.38% of changed lines were hand-edited
+🚀 High AI Trust — 1.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
