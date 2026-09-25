@@ -53,50 +53,50 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-TypeScript               4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
-Other                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.00 % 
+TypeScript               7 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 54 mins      ███████████████████░░░░░░   77.92 % 
-VS Code                  2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Codex Vscode             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Claude Code              15 hrs 22 mins      ████████████████████░░░░░   78.20 % 
+VS Code                  3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          11 hrs 34 mins      █████████████████████░░░░   82.69 % 
-mylexia-angular          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-i-had-submitted-a-requet-34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-reviewer portal prototype11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-scratch-2026-09-18-bb35d49 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+reviewer-portal          16 hrs 52 mins      █████████████████████░░░░   85.81 % 
+mylexia-angular          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+scratch-2026-09-18-bb35d49 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+i-had-submitted-a-requet-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+call_gM9Bi9ccc8PbBlwI0Vm83 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 35 mins (90.06%)
+⏱ AI Coding Time: 17 hrs 51 mins (90.83%)
 
-✍️ 7,763 lines written by AI, 37 lines written by hand (99.53% AI-written)
+✍️ 9,006 lines written by AI, 37 lines written by hand (99.59% AI-written)
 
-🔤 7,413,464 Input Tokens, 1,093,160 Output Tokens
+🔤 11,402,415 Input Tokens, 1,785,382 Output Tokens
 
-💵 $295.20 Estimated AI Cost This Week
+💵 $434.27 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 175 AI Prompts
+🧠 63 AI Sessions, 217 AI Prompts
 
-Opus                     7,673 lines         ████████████████████████░   94.34 % 
-Fable                    460 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Opus                     8,100 lines         █████████████████████░░░░   83.65 % 
+Fable                    948 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Github-Copilot           547 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Sonnet                   88 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📄 Detailed Prompter — average 1,039 characters per prompt
+🤖 AI-Driven — 99.59% of written lines came from AI
+📄 Detailed Prompter — average 1,276 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
