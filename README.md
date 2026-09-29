@@ -53,50 +53,49 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.26 % 
-TypeScript               5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.41 % 
-YAML                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Markdown                 8 hrs 30 mins       █████████████░░░░░░░░░░░░   53.38 % 
+TypeScript               4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+YAML                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 41 mins      ███████████████████░░░░░░   76.42 % 
-VS Code                  3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Copilot CLI              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Claude Code              12 hrs 35 mins      ████████████████████░░░░░   78.96 % 
+VS Code                  3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          14 hrs 18 mins      ██████████████████████░░░   86.12 % 
-mylexia-angular          2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-i-had-submitted-a-requet-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-marathon-training-data-pa1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-scratch-2026-09-21-3d8e140 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+reviewer-portal          14 hrs 14 mins      ██████████████████████░░░   89.31 % 
+mylexia-angular          1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+g-p-6a6eb5ce5c5c8191a0caa3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+scratch-2026-09-23-1501350 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Freelance                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 49 mins (89.32%)
+⏱ AI Coding Time: 14 hrs 9 mins (88.86%)
 
-✍️ 8,926 lines written by AI, 37 lines written by hand (99.59% AI-written)
+✍️ 8,592 lines written by AI, 36 lines written by hand (99.58% AI-written)
 
-🔤 9,760,010 Input Tokens, 1,402,494 Output Tokens
+🔤 9,897,622 Input Tokens, 1,369,605 Output Tokens
 
-💵 $345.34 Estimated AI Cost This Week
+💵 $206.86 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 154 AI Prompts
+🧠 47 AI Sessions, 166 AI Prompts
 
-Opus                     8,020 lines         █████████████████████░░░░   83.52 % 
-Fable                    948 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Github-Copilot           547 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Sonnet                   88 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,670 lines         ██████████████████░░░░░░░   72.97 % 
+Fable                    1,793 lines         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Github-Copilot           547 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Sonnet                   88 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+GPT                      43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 1,599 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
+🤖 AI-Driven — 99.58% of written lines came from AI
+📚 Verbose Prompter — average 1,631 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
