@@ -33,9 +33,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C082%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C086%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-366%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,61 +53,61 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
-Markdown                 4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+Markdown                 3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 1 min        ████████████████████░░░░░   79.07 % 
-VS Code                  2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Copilot                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              8 hrs 54 mins       █████████████████████░░░░   85.34 % 
+VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Copilot                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Copilot CLI              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          10 hrs 53 mins      █████████████████████░░░░   85.94 % 
-mylexia-angular          1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-scratch-2026-09-30-b949c25 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-g-p-6a6eb5ce5c5c8191a0caa3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-marathon-training-data-pa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+reviewer-portal          9 hrs 34 mins       ███████████████████████░░   91.69 % 
+mylexia-angular          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+i-had-submitted-a-requet-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+scratch-2026-09-30-b949c25 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+marathon-training-data-pa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (93.55%)
+⏱ AI Coding Time: 10 hrs (95.91%)
 
-✍️ 3,804 lines written by AI, 18 lines written by hand (99.53% AI-written)
+✍️ 2,870 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 9,824,175 Input Tokens, 1,370,956 Output Tokens
+🔤 7,102,919 Input Tokens, 1,270,297 Output Tokens
 
-💵 $175.73 Estimated AI Cost This Week
+💵 $162.10 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 136 AI Prompts
+🧠 30 AI Sessions, 119 AI Prompts
 
-Opus                     3,329 lines         ███████████████████░░░░░░   74.06 % 
-Github-Copilot           547 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Fable                    488 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Sonnet                   88 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-GPT                      43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Opus                     3,164 lines         ████████████████████████░   96.35 % 
+Fable                    120 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📄 Detailed Prompter — average 1,320 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 1,557 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.73 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
