@@ -33,19 +33,19 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C091%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C097%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2041%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-🌆 Daytime                206 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌃 Evening                290 commits         ███████████░░░░░░░░░░░░░░   42.21 % 
-🌙 Night                  174 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+🌆 Daytime                172 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                247 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌙 Night                  163 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 ```
 
 
@@ -53,49 +53,45 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
-Markdown                 3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
-TypeScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 8 hrs 1 min         █████████████░░░░░░░░░░░░   53.09 % 
+Other                    4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 58 mins       ██████████████████████░░░   88.07 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Copilot                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Claude Code              14 hrs 25 mins      ████████████████████████░   95.48 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          6 hrs 34 mins       ██████████████████░░░░░░░   72.53 % 
-mylexia-angular          2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-lexia_ai_assets          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-scratch-2026-10-06-d609c73 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-scratch-2026-10-02-f8cc670 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+reviewer-portal          12 hrs 27 mins      █████████████████████░░░░   82.42 % 
+mylexia-angular          2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+lexia_ai_assets          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+scratch-2026-10-06-b3aa2e5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+scratch-2026-10-06-d609c73 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 51 mins (97.73%)
+⏱ AI Coding Time: 14 hrs 54 mins (98.64%)
 
-✍️ 484 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,540 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,141,388 Input Tokens, 811,564 Output Tokens
+🔤 15,289,767 Input Tokens, 1,630,745 Output Tokens
 
-💵 $153.17 Estimated AI Cost This Week
+💵 $246.05 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 127 AI Prompts
+🧠 55 AI Sessions, 265 AI Prompts
 
-Opus                     475 lines           ████████████████████░░░░░   79.83 % 
-Fable                    120 lines           █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,574 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,160 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,414 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
