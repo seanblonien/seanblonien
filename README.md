@@ -53,49 +53,48 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-TypeScript               2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Other                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Markdown                 3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
+TypeScript               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Other                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 26 mins       ██████████████████░░░░░░░   70.40 % 
-VS Code                  2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Codex Vscode             1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Claude Code              7 hrs 27 mins       ███████████████████░░░░░░   77.57 % 
+VS Code                  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Codex Vscode             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          8 hrs 5 mins        █████████████████░░░░░░░░   67.43 % 
-forever-fest-2026        2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-scratch-2026-10-12-994f3228 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-marathon-training-data-pa24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-scratch-2026-10-13-a551712 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+reviewer-portal          8 hrs 5 mins        █████████████████████░░░░   84.09 % 
+forever-fest-2026        1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+marathon-training-data-pa24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+scratch-2026-10-13-a551712 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 26 mins (87.05%)
+⏱ AI Coding Time: 8 hrs 56 mins (93.03%)
 
-✍️ 1,544 lines written by AI, 75 lines written by hand (95.37% AI-written)
+✍️ 1,386 lines written by AI, 6 lines written by hand (99.57% AI-written)
 
-🔤 7,637,985 Input Tokens, 1,014,941 Output Tokens
+🔤 7,240,805 Input Tokens, 887,197 Output Tokens
 
-💵 $104.49 Estimated AI Cost This Week
+💵 $96.53 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 150 AI Prompts
+🧠 35 AI Sessions, 135 AI Prompts
 
-Opus                     852 lines           █████████████░░░░░░░░░░░░   51.33 % 
-Fable                    497 lines           ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-GPT                      292 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Sonnet                   19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Opus                     693 lines           ████████████░░░░░░░░░░░░░   46.76 % 
+Fable                    497 lines           ████████░░░░░░░░░░░░░░░░░   33.54 % 
+GPT                      292 lines           █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.37% of written lines came from AI
-📚 Verbose Prompter — average 1,817 characters per prompt
+🤖 AI-Driven — 99.57% of written lines came from AI
+📚 Verbose Prompter — average 2,004 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
