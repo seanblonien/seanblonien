@@ -53,45 +53,45 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 22 mins       ███████████████░░░░░░░░░░   60.20 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Markdown                 5 hrs 23 mins       ████████████████░░░░░░░░░   65.07 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 55 mins       ████████████████████░░░░░   81.68 % 
-VS Code                  1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              6 hrs 52 mins       █████████████████████░░░░   83.02 % 
+VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          5 hrs 30 mins       ███████████████████░░░░░░   75.80 % 
-mylexia-angular          1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-lexia_ai_assets          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-scratch-2026-10-21-74106d8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-scratch-2026-10-20-13eba76 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+reviewer-portal          6 hrs 30 mins       ████████████████████░░░░░   78.75 % 
+mylexia-angular          1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+lexia_ai_assets          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+scratch-2026-10-21-74106d8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+scratch-2026-10-20-13eba76 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 11 mins (85.29%)
+⏱ AI Coding Time: 7 hrs 11 mins (86.97%)
 
-✍️ 3,761 lines written by AI, 7 lines written by hand (99.81% AI-written)
+✍️ 3,869 lines written by AI, 7 lines written by hand (99.82% AI-written)
 
-🔤 3,120,684 Input Tokens, 671,959 Output Tokens
+🔤 3,969,088 Input Tokens, 782,006 Output Tokens
 
-💵 $94.21 Estimated AI Cost This Week
+💵 $116.99 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 102 AI Prompts
+🧠 24 AI Sessions, 133 AI Prompts
 
-Opus                     3,822 lines         █████████████████████████   100.00 % 
+Opus                     3,930 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 1,210 characters per prompt
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 1,017 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
