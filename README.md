@@ -33,9 +33,9 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 ![Serverless](https://img.shields.io/badge/Serverless-1f2937?style=flat&logo=serverless&logoColor=FD5750)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C114%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C118%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-400%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,47 +53,47 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 23 mins       ████████████████░░░░░░░░░   65.07 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 7 hrs 8 mins        ███████████████░░░░░░░░░░   60.55 % 
+JavaScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       █████████████████████░░░░   83.02 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              10 hrs              █████████████████████░░░░   84.96 % 
+VS Code                  1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-reviewer-portal          6 hrs 30 mins       ████████████████████░░░░░   78.75 % 
-mylexia-angular          1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-lexia_ai_assets          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-scratch-2026-10-21-74106d8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-scratch-2026-10-20-13eba76 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+reviewer-portal          9 hrs 22 mins       ████████████████████░░░░░   79.48 % 
+mylexia-angular          1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+lexia_ai_assets          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+scratch-2026-10-21-74106d8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+scratch-2026-10-20-13eba76 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (86.97%)
+⏱ AI Coding Time: 10 hrs 26 mins (88.63%)
 
-✍️ 3,869 lines written by AI, 7 lines written by hand (99.82% AI-written)
+✍️ 6,071 lines written by AI, 33 lines written by hand (99.46% AI-written)
 
-🔤 3,969,088 Input Tokens, 782,006 Output Tokens
+🔤 8,876,562 Input Tokens, 1,383,739 Output Tokens
 
-💵 $116.99 Estimated AI Cost This Week
+💵 $201.47 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 133 AI Prompts
+🧠 39 AI Sessions, 199 AI Prompts
 
-Opus                     3,930 lines         █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     5,868 lines         ███████████████████████░░   93.26 % 
+Fable                    424 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 1,017 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 99.46% of written lines came from AI
+📄 Detailed Prompter — average 1,380 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
