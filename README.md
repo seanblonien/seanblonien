@@ -37,15 +37,15 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                177 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌃 Evening                251 commits         ██████████░░░░░░░░░░░░░░░   41.28 % 
-🌙 Night                  164 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌆 Daytime                177 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌃 Evening                253 commits         ██████████░░░░░░░░░░░░░░░   41.48 % 
+🌙 Night                  164 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
 ```
 
 
@@ -99,11 +99,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.73 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
