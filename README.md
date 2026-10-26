@@ -37,15 +37,15 @@ I'm a senior software engineer who enjoys building real-time full-stack mobile a
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-🌆 Daytime                177 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌃 Evening                253 commits         ██████████░░░░░░░░░░░░░░░   41.48 % 
-🌙 Night                  164 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+🌞 Morning                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+🌆 Daytime                180 commits         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌃 Evening                263 commits         ██████████░░░░░░░░░░░░░░░   39.25 % 
+🌙 Night                  164 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 ```
 
 
